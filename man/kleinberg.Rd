@@ -35,7 +35,7 @@ The `start' time of a burst is defined as the time of the event that precedes th
 As per Kleinberg, if the system goes through a burst that increases the level by more than 1, a separate row is created for each level that it goes through.
 }
 \references{
-J. Kleinberg. Bursty and Hierarchical Structure in Streams. Proc. 8th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2002.
+Kleinberg, J. (2003). "Bursty and Hierarchical Structure in Streams." Data Mining and Knowledge Discovery \strong{7}: 373-397. <doi:10.1023/A:1024940629314>
 
 http://www.cs.cornell.edu/home/kleinber/kdd02.html
 }

@@ -1,7 +1,7 @@
-ba9c82c5e901fc986466a6614744d70e *DESCRIPTION
+9547d48c7260bf2eab9ea0ca21486cf8 *DESCRIPTION
 d20ab78a25a3c484af11961f901dbc20 *LICENSE
-87cd569105d18472d54a6f570ff2c9c6 *NAMESPACE
+d0dc5931775bf8371406782d02508bcc *NAMESPACE
 9c77a40a3b3962e62eeac7784dcddc6f *R/bursts.R
-53143f02213e389e5de7ed8dfcb5823b *man/bursts-package.Rd
-62b175e20fc3310e21d8ed1dd4a0246d *man/kleinberg.Rd
-fbb0118807e55d28437e642cea53af3b *man/plot.bursts.Rd
+0bfc9ffe4baca34224a8046fbe0fece0 *man/bursts-package.Rd
+72dc77645c377db7cff4293512c31d7a *man/kleinberg.Rd
+b82482c5c8d2f6fc6ea6c262c324a3cc *man/plot.bursts.Rd

@@ -20,6 +20,9 @@ other parameters are passed along to \code{plot}.
 \details{
 Horizontal bars represent the `bursts,' with their vertical position indicating the level (i.e. intensity) and the x axis representing time.  Bars appear above others to represent the hierarchical structure that emerges when long bursts contain sub-bursts of even higher activity.
 }
+\value{
+No return value; called to produce a plot.
+}
 \references{
 J. Kleinberg. Bursty and Hierarchical Structure in Streams. Proc. 8th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2002.
 

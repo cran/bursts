@@ -1,2 +1,3 @@
 exportPattern("^[[:alpha:]]+")
 S3method(plot, bursts)
+importFrom("graphics", "arrows", "axis")
